@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.mHHrDb8M.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"config.md","filePath":"config.md"}'),p={name:"config.md"},l=n("",1),t=[l];function e(h,k,r,c,o,d){return a(),i("div",null,t)}const D=s(p,[["render",e]]);export{A as __pageData,D as default};
